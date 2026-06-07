@@ -1,0 +1,46 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+
+    height: 100vh;
+    width: 100vw;
+
+
+}
+
+#header{
+
+    height: 80px;
+    width: 100%;
+    background:#777d88;
+
+
+}
+
+#nav{
+
+    height: 100%;
+    width: 100%;
+
+
+}
+
+#ul_list{
+
+    display: flex;
+     list-style: none;
+     justify-content: center;
+     gap: 50px;
+     align-items: center;
+     flex-direction: row;
+     height: 100%;
+     font-size: 1.5rem;
+     font-family: monospace;
+     font-weight: bold;
+
+}
